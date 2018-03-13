@@ -19,7 +19,7 @@
     <dcterms:publisher>University Research Extension Company</dcterms:publisher>
     <dcterms:type>text</dcterms:type>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:58597/iiif/manifest.json</dcterms:isReferencedBy>
-    <dcterms:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dcterms:rights>
+    <dcterms:rights>http://rightsstatements.org/vocab/NKC/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:58597</edm:isShownAt>
     <edm:preview>https://iiif.lib.virginia.edu/iiif/tsm:1251125/full/!300,300/0/default.jpg</edm:preview>
 </mdRecord>
