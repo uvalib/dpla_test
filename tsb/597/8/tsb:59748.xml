@@ -9,7 +9,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu/dplava/v1 http://dplava.lib.virginia.edu/dplava.xsd">
     <dcterms:identifier>tsb:59748</dcterms:identifier>
-    <dcterms:title>Myringotomy knife</dcterms:title>
+    <dcterms:title>My Test Myringotomy Knife?</dcterms:title>
     <dcterms:provenance>University of Virginia Libraries</dcterms:provenance>
     <dcterms:creator>CREATOR</dcterms:creator>
     <dcterms:created>1920</dcterms:created>
