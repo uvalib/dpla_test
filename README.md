@@ -1,2 +1,2 @@
 # dpla_test
-Test repo for publishing DPLA QDC.
+Test Repo for publishing DPLA QDC.
