@@ -11,14 +11,24 @@
     <dcterms:identifier>tsb:59741</dcterms:identifier>
     <dcterms:title>Blunt hook</dcterms:title>
     <dcterms:provenance>University of Virginia Library</dcterms:provenance>
-    <dcterms:creator>CREATOR</dcterms:creator>
     <dcterms:created>1880</dcterms:created>
     <dcterms:description>Obstetrical instrument</dcterms:description>
     <dcterms:medium>hooks (object genre)</dcterms:medium>
+    <dcterms:medium>medical equipment</dcterms:medium>
+    <dcterms:medium>wood (plant material)</dcterms:medium>
+    <dcterms:medium>metal</dcterms:medium>
     <dcterms:extent>2.8 x 34.8 x 5.8 cm</dcterms:extent>
     <dcterms:subject>Medical instruments and apparatus</dcterms:subject>
+    <dcterms:subject>Topic Number One</dcterms:subject>
+    <dcterms:subject>Topic Number TWO</dcterms:subject>
     <dcterms:type>three dimensional object</dcterms:type>
+    <dcterms:spatial>United States</dcterms:spatial>
+    <dcterms:spatial>Virginia</dcterms:spatial>
+    <dcterms:spatial>Charlottesville</dcterms:spatial>
     <dcterms:isPartOf>University of Virginia Medical Artifacts Collection</dcterms:isPartOf>
+    <dcterms:isPartOf>Something Else</dcterms:isPartOf>
+    <edm:hasType valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</edm:hasType>
+    <edm:hasType valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007720">Ferrets</edm:hasType>
     <dcterms:isReferencedBy>http://search.lib.virginia.edu/catalog/tsb:59741/iiif/manifest.json</dcterms:isReferencedBy>
     <dcterms:rights>http://rightsstatements.org/vocab/CNE/1.0/</dcterms:rights>
     <edm:isShownAt>http://search.lib.virginia.edu/catalog/tsb:59741</edm:isShownAt>
